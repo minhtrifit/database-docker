@@ -24,6 +24,13 @@ username: admin@admin.com
 password: admin
 ```
 
+- Create Server information
+
+**Name: `db (optional)`**</br>
+**Host name/address: `172.18.0.2` (check To get Host name/address below)**</br>
+**Username: `postgresql`**</br>
+**Password: `123`**
+
 - To get Host name/address
 
 **View docker container list: `docker ps`**</br>
