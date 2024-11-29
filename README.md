@@ -12,6 +12,17 @@
 
 ---
 
+## Command list
+
+| Command                                           |              To Do               |
+| :------------------------------------------------ | :------------------------------: |
+| docker ps                                         |      View list of Container      |
+| docker exec -it container_id bash                 | Access to Docker Container by ID |
+| exit                                              | Exit accessing Docker Container  |
+| psql -h localhost -U POSTGRES_USER -d POSTGRES_DB |       Login to Postgresql        |
+
+---
+
 > ### MySql & PhpMyAdmin:
 
 | Key      |         Value         |
