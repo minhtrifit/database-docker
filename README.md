@@ -4,25 +4,31 @@
 
 ---
 
+## Table of Contents
+
+- [MySql & PhpMyAdmin](#mysql--phpmyadmin)
+- [Postgresql & pgAdmin4](#postgresql--pgadmin4)
+- [MongoDB & MongoExpress](#mongodb--mongoexpress)
+
+---
+
 > ### MySql & PhpMyAdmin:
 
-- [Host URL](http://localhost:8090)
-
-```php
-username: root
-password: password
-```
+| Key      |         Value         |
+| :------- | :-------------------: |
+| Hosting  | http://localhost:8090 |
+| username |         root          |
+| password |       password        |
 
 ---
 
 > ### Postgresql & pgAdmin4:
 
-- [Host URL](http://localhost:5050)
-
-```php
-username: admin@admin.com
-password: admin
-```
+| Key      |         Value         |
+| :------- | :-------------------: |
+| Hosting  | http://localhost:5050 |
+| username |    admin@admin.com    |
+| password |         admin         |
 
 - Create Server information
 
@@ -41,9 +47,8 @@ password: admin
 
 > ### MongoDB & MongoExpress:
 
-- [Host URL](http://localhost:8081)
-
-```php
-username: root
-password: root
-```
+| Key      |         Value         |
+| :------- | :-------------------: |
+| Hosting  | http://localhost:8081 |
+| username |         root          |
+| password |         root          |
